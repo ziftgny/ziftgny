@@ -1,4 +1,4 @@
-#   <p style="text-align:center;">Muhammed Güney<br>Junior Software Engineer</p>
+#   <p style="align:center;">Muhammed Güney<br>Junior Software Engineer</p>
 -  🎓 Pursuing a degree in Computer Engineering at Gazi University (Graduating 2026)
 -  🛠️ Focused on designing and building AI-powered applications and scalable backend systems
 -  📚 Experienced in Natural Language Processing, Computer Vision, ETL processes, and end-to-end software development and deployment
