@@ -1,5 +1,10 @@
 # 💫 About Me:
-👨‍💻 Muhammed Güney, Junior Software Engineer<br>🎓 Pursuing a degree in Computer Engineering at Gazi University (Graduating 2026)<br>🛠️ Focused on designing and building AI-powered applications and scalable backend systems<br>📚 Experienced in Natural Language Processing, Computer Vision, ETL processes, and end-to-end software development and deployment<br>🏆 Currently competing in the Artificial Intelligence in Aviation Competition at TEKNOFEST 2025<br>🚀 Passionate about solving complex problems through intelligent, efficient, and impactful software solutions
+-  👨‍💻 Muhammed Güney, Junior Software Engineer<br>
+-  🎓 Pursuing a degree in Computer Engineering at Gazi University (Graduating 2026)
+-  🛠️ Focused on designing and building AI-powered applications and scalable backend systems
+-  📚 Experienced in Natural Language Processing, Computer Vision, ETL processes, and end-to-end software development and deployment
+-  🏆 Currently competing in the Artificial Intelligence in Aviation Competition at TEKNOFEST 2025
+-  🚀 Passionate about solving complex problems through intelligent, efficient, and impactful software solutions
 
 
 ## 🌐 Socials:
