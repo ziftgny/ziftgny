@@ -1,5 +1,4 @@
-##  Muhammed Güney
-#  Junior Software Engineer
+#   <p style="text-align:center;">Muhammed Güney<br>Junior Software Engineer</p>
 -  🎓 Pursuing a degree in Computer Engineering at Gazi University (Graduating 2026)
 -  🛠️ Focused on designing and building AI-powered applications and scalable backend systems
 -  📚 Experienced in Natural Language Processing, Computer Vision, ETL processes, and end-to-end software development and deployment
@@ -7,7 +6,7 @@
 -  🚀 Passionate about solving complex problems through intelligent, efficient, and impactful software solutions
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-güney-398a44203/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziftgny0@gmail.com) 
 
 # 💻 Tech Stack:
